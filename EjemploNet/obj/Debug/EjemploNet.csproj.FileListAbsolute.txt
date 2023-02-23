@@ -1,0 +1,11 @@
+C:\Users\lab2_equipo6\source\repos\EjemploNet\bin\Debug\EjemploNet.exe.config
+C:\Users\lab2_equipo6\source\repos\EjemploNet\bin\Debug\EjemploNet.exe
+C:\Users\lab2_equipo6\source\repos\EjemploNet\bin\Debug\EjemploNet.pdb
+C:\Users\lab2_equipo6\source\repos\EjemploNet\obj\Debug\EjemploNet.csproj.AssemblyReference.cache
+C:\Users\lab2_equipo6\source\repos\EjemploNet\obj\Debug\EjemploNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab2_equipo6\source\repos\EjemploNet\obj\Debug\EjemploNet.Form1.resources
+C:\Users\lab2_equipo6\source\repos\EjemploNet\obj\Debug\EjemploNet.Properties.Resources.resources
+C:\Users\lab2_equipo6\source\repos\EjemploNet\obj\Debug\EjemploNet.csproj.GenerateResource.cache
+C:\Users\lab2_equipo6\source\repos\EjemploNet\obj\Debug\EjemploNet.csproj.CoreCompileInputs.cache
+C:\Users\lab2_equipo6\source\repos\EjemploNet\obj\Debug\EjemploNet.exe
+C:\Users\lab2_equipo6\source\repos\EjemploNet\obj\Debug\EjemploNet.pdb
